@@ -16,10 +16,10 @@ Dedicated Cyber Security Analyst with over 8 years of experience in retail, curr
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
+| Incident Handler's Journal                    | <a href="[https://google.com](https://docs.google.com/document/d/1g_tAj0LWuVoewA9pRIJCRI_D373MKPZ98nBUOOqUzz4/edit?tab=t.0)">Detection Lab</a>|
+| TryHackMe Journal                             | <a href="https://google.com">Detection Lab</a>|
+| Vulnerable Systems Analysis                   | SOC Automation Lab|
+| Sample SQL Query                              | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
