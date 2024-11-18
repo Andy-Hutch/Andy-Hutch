@@ -16,7 +16,7 @@ Dedicated Cyber Security Analyst with over 8 years of experience in retail, curr
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Incident Handler's Journal                    | <a href="(https://docs.google.com/document/d/1g_tAj0LWuVoewA9pRIJCRI_D373MKPZ98nBUOOqUzz4/edit?tab=t.0)">Detection Lab</a>|
+| Incident Handler's Journal                    | <a href="https://docs.google.com/document/d/1g_tAj0LWuVoewA9pRIJCRI_D373MKPZ98nBUOOqUzz4/edit?tab=t.0">Detection Lab</a>|
 | TryHackMe Journal                             | <a href="https://google.com">Detection Lab</a>|
 | Vulnerable Systems Analysis                   | SOC Automation Lab|
 | Sample SQL Query                              | SOC Automation Lab|
