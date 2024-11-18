@@ -12,7 +12,6 @@ Dedicated Cyber Security Analyst with over 8 years of experience in retail, curr
 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -39,7 +38,6 @@ Dedicated Cyber Security Analyst with over 8 years of experience in retail, curr
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Google_Cybersecurity_Professional_Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 </div>
