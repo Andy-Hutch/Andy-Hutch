@@ -20,6 +20,7 @@ Dedicated Cyber Security Analyst with over 8 years of experience in retail, curr
 | Vulnerable Systems Analysis                   | <a href="https://docs.google.com/document/d/10hhVnHdzJ5b7VxcVdAhOT3lscFmLdMEVMc53uQ9ljhE/edit?tab=t.0#heading=h.5x0d5h95i329">Detection Lab</a>|
 | Sample SQL Query                              | <a href="https://docs.google.com/document/d/16Wy8WBjuaXKlwFxteDbmZatkDZezQfqzxn5n_EzTkPw/edit?resourcekey=0-S3OBlbDzmbGBJ78GyiQc3g&tab=t.0#heading=h.adnh333husy">Detection Lab</a>|
 | Algorithm for file updates in Python          | <a href="https://docs.google.com/document/d/11ES_iZRGT7IQosBX4XoB5T1OpHUFIJwgzAlyunE-uC0/edit?tab=t.0">Detection Lab</a>|
+| 
 
 ## Tools
 
