@@ -1,5 +1,6 @@
 # Hello, I'm Andy Hutchison
 <a href="https://www.linkedin.com/in/hutchisonandy86/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://docs.google.com/document/d/1FpvzKT5z___NUOBuWOeU2kzInUiVexGfMlNVpCEzij4/edit?tab=t.0" target="_blank">View My Resume</a>
 
 ## Introduction
 
