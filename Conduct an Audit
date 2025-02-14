@@ -1,0 +1,91 @@
+<details>
+  <summary><h1>Controls and Compliance Assessment</h1></summary>
+
+## Case Study: Botium Toys
+
+### Scope
+The entire security program at Botium Toys, including all assets, internal processes, and procedures related to implementing controls and compliance best practices.
+
+### Goals
+- Assess existing assets
+- Complete the controls and compliance checklist
+- Identify necessary security improvements to enhance Botium Toys’ security posture
+
+### Current Assets
+- On-premises equipment for in-office business needs
+- Employee equipment: end-user devices (desktops/laptops, smartphones, remote workstations, etc.)
+- Storefront products available for retail sale onsite and online
+- Management of systems, software, and services: accounting, telecommunication, database, security, e-commerce, inventory management
+- Internet access
+- Internal network
+- Data retention and storage
+- Legacy system maintenance
+
+### Risk Assessment
+#### Risk Description
+- Inadequate asset management
+- Lack of proper security controls
+- Non-compliance with U.S. and international regulations
+
+#### Control Best Practices (NIST CSF - Identify Function)
+- Dedicate resources to asset identification and management
+- Classify assets and determine the impact of loss
+
+#### Risk Score: **8 (High Risk)**
+- Lack of controls and adherence to compliance best practices
+
+#### Additional Comments
+- Medium impact of asset loss due to unidentified risks
+- High risk of fines due to lack of necessary controls and compliance adherence
+
+## Controls Assessment Checklist
+
+| Yes / No / ? | Control | Explanation |
+|-------------|---------|-------------|
+| No | Least Privilege | Employees have unnecessary access to customer data. |
+| No | Disaster Recovery Plan | No disaster handling plan exists, risking business continuity. |
+| Yes | Firewall | Blocks unauthorized traffic based on security rules. |
+| ? | Password Policies | Exists but requirements are weak. |
+| Yes | Antivirus | Active and regularly monitored. |
+| No | Backups | No backup plan is implemented. |
+| No | Encryption | Data is not encrypted, risking confidentiality. |
+| No | IDS | No intrusion detection system to identify threats. |
+| Yes | Storefront | Secure locks are in place. |
+| Yes | CCTV | Surveillance cameras are functioning. |
+| Yes | Fire Detection | Exists but needs a formal maintenance plan. |
+
+## Compliance Checklist
+
+### **PCI DSS**
+
+| Yes/ No / ? | Best Practice | Explanation |
+|-------------|--------------|-------------|
+| No | Authorized users only access credit card data | All employees have access, violating security best practices. |
+| No | Credit card data stored securely | Data is not encrypted, violating regulations. |
+| No | Secure encryption in place | Encryption has not been implemented. |
+
+### **GDPR**
+
+| Yes/ No / ? | Best Practice | Explanation |
+|-------------|--------------|-------------|
+| No | EU customer data secured | GDPR practices are not applied, risking fines. |
+| Yes | Privacy policies enforced | Privacy policies are maintained. |
+
+### **System and Organization Controls**
+
+| Yes/ No / ? | Best Practice | Explanation |
+|-------------|--------------|-------------|
+| No | User access policies established | Employees can access all data without restrictions. |
+| Yes | Data integrity maintained | Data is accurate and complete. |
+| No | Authorized users only access data | All employees have access to all data. |
+
+## Recommendations
+1. **Implement Least Privilege:** Restrict access to sensitive data.
+2. **Establish a Disaster Recovery Plan:** Ensure business continuity.
+3. **Enforce Strong Password Policies:** Improve identity management security.
+4. **Implement Encryption:** Protect data confidentiality.
+5. **Adopt a Password Management System:** Enhance security against credential leaks.
+
+Botium Toys must establish policies addressing these security gaps and update its asset inventory to improve compliance and security practices.
+
+</details>
