@@ -60,4 +60,4 @@ and more....
 **Stay tuned for updates!**
 
 This portfolio will continuously grow as I complete more certificates and projects. I encourage you to visit again to see my progress and learn more about my skills and experience.
-Thank you for your time. For more information, please connect with me on [Linkedin](linkedin.com/in/hutchisonandy86/).
+Thank you for your time. For more information, please connect with me on [Linkedin](https://www.linkedin.com/in/hutchisonandy86/).
