@@ -1,14 +1,16 @@
 # Andy-Cybersecurity-Portfolio
 > Modul 1-8 are inspired by Google. Please visit this [link](https://www.coursera.org/google-certificates/cybersecurity-certificate) for further information. More are to come, stay tuned!
  
-## Professional Statements
-I am Andy Hutchison, a Technicians Manager at an Arizona Texaco with a strong foundation in cybersecurity and IT operations. With over eight years of experience in retail management, I have developed expertise in conducting security audits, threat detection and response, and network security.
+## About Me
+I'm Andy Hutchison — a former equipment operator and current Technicians Manager at Texaco, transitioning into the world of tech with a focus on UX/UI design.
 
-As I transition into cybersecurity, I have completed the Google Cybersecurity Professional Certificate and gained hands-on experience with Linux, SQL, TCPDump, Wireshark, IDS, and SIEM tools. My skill set also includes risk assessment, security monitoring, and automation with Python.
+Working in physically demanding roles taught me the value of efficiency, clear communication, and problem-solving under pressure — all of which translate surprisingly well into design. I realized I wanted to build more than just systems that move materials — I wanted to create digital experiences that move people.
 
-Recently, I completed the Google Cybersecurity Professional Certificate to pursue my passion for technology and Cybersecurity. The Google Cybersecurity Professional Certificate has prepared me for industry-ready jobs. My ultimate goal is to become a Security Analyst. This role suits me because I have strong analytical abilities, persistence, eagerness to learn, a can-do attitude, problem-solving skills, and communication skills to address problems and emerging threats. 
+My journey started with a deep dive into front-end development and user experience. I’ve been teaching myself tools like Figma, HTML, and Tailwind CSS, and learning how to design interfaces that are not only clean and accessible, but enjoyable to use.
 
-As of 2025, I am preparing to take the `Linux Foundation Certified Associate (LFCA)`, `CompTIA A+`, `CompTIA Network+` and `CompTIA Security+` certifications.
+Outside of work, I’m a proud dad, a hands-on learner, and someone who enjoys creative side projects, gaming, and anything that lets me build or optimize something new.
+
+My goal? To craft intuitive, user-first designs that solve real-world problems and bring clarity to complex systems.
 
 ## Portfolio
 > Please visit this [link](https://www.coursera.org/professional-certificates/google-cybersecurity) for further information.
