@@ -43,7 +43,12 @@ Additionally, it has paved the way for me to pursue one of the entry-level follo
 | [6](https://github.com/Andy-Hutch/Andy-Hutch/tree/main/6%20-%20Tcpdump%20%26%20Wireshark) - Tcpdump & Wireshark | `Packet Analyzer` | 
 | [7](https://github.com/Andy-Hutch/Andy-Hutch/tree/main/7%20-%20IDS%20%26%20SIEM) - IDS & SIEM | `Intrusion Detection System (IDS): Suricata`, `Security Information and Event Management (SIEM): Chronicle, Splunk` |
 | [8](https://github.com/Andy-Hutch/Andy-Hutch/tree/main/8%20-%20Automation%20with%20Python) - Automation with Python | `Computer Programming`, `Python Programming`, `Coding`, `PEP 8 Style Guide`|
-| Portfolio Website
+| Portfolio Website (Description) A clean, responsive portfolio site designed and coded from scratch. Built to showcase my transition into tech, highlight key projects, and demonstrate both design thinking and front-end skills.
+| Mobile-Coffee-App-UI (Design & code of a mobile-friendly app)(like a Starbucks clone)
+| Landing-Page-Redisign (Take an ugly website and redesign it)(with Figma + code)
+| etl-pipeline-project (Pull data from an API)(e.g., weather, crypto)(clean it, and store it)
+| sql-analytics-challenge (Answer business questions with SQL from a public dataset)
+| data-pipeline-gcp (A simple project deployed on GCP or AWS)(optional cloud-based one)
 
 ### Tools 
 Several tools that I used: 
