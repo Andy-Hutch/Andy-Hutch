@@ -1,16 +1,22 @@
-# Andy-Cybersecurity-Portfolio
-> Modul 1-8 are inspired by Google. Please visit this [link](https://www.coursera.org/google-certificates/cybersecurity-certificate) for further information. More are to come, stay tuned!
- 
-## About Me
-I'm Andy Hutchison — a former equipment operator and current Technicians Manager at Texaco, transitioning into the world of tech with a focus on UX/UI design.
+# 👋 Hi, I'm Andy Hutchison
 
-Working in physically demanding roles taught me the value of efficiency, clear communication, and problem-solving under pressure — all of which translate surprisingly well into design. I realized I wanted to build more than just systems that move materials — I wanted to create digital experiences that move people.
+I'm transitioning into cybersecurity after graduating from Merit America and earning my Google Cybersecurity Certificate.
 
-My journey started with a deep dive into front-end development and user experience. I’ve been teaching myself tools like Figma, HTML, and Tailwind CSS, and learning how to design interfaces that are not only clean and accessible, but enjoyable to use.
+### 🔐 What I Do
+- Create basic security checklists and audits for small businesses
+- Write entry-level scripts (Python & Bash) for file organization and security tasks
+- Help teams improve password policies and digital safety practices
 
-Outside of work, I’m a proud dad, a hands-on learner, and someone who enjoys creative side projects, gaming, and anything that lets me build or optimize something new.
+### 🛠️ Tools I Use
+VS Code · Python · Bash · Linux · Windows · Google Workspace
 
-My goal? To craft intuitive, user-first designs that solve real-world problems and bring clarity to complex systems.
+### 🚀 Current Goal
+Building hands-on projects and helping clients protect their systems while I grow as a cybersecurity professional.
+
+### 📫 Let's Connect
+Check out my work below or contact me through [Upwork](https://www.upwork.com/freelancers/~YOUR-ID).
+
+
 
 ## Portfolio
 > Please visit this [link](https://www.coursera.org/professional-certificates/google-cybersecurity) for further information.
