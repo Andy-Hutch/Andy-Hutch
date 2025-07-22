@@ -1,0 +1,1 @@
+Conducted a simulated third-party risk assessment for a fictional SaaS vendor, establishing a structured evaluation process to identify, score and prioritize vendor risks. Developed a comprehensive risk questionnaire aligned with ISO 27001 control domains, and designed a dynamic scoring model with an intuitive heat map for a visual risk communication.
