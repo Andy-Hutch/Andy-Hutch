@@ -64,15 +64,8 @@ Browse my projects below or connect with me on LinkedIn
 
 ---
 
-## 💻 Extra Projects
-
-| Project | Summary |
-|--------|---------|
-| **Portfolio Website** | A clean, responsive portfolio site showcasing my transition into tech and cybersecurity |
-| **ETL Pipeline** | Pulls external data via API, cleans it, and stores it for analysis |
-| **SQL Analytics Challenge** | Answers business questions from a real-world dataset |
-| **Mobile Coffee App UI** | Mobile-first app designed with user experience in mind (Figma + Tailwind + HTML) |
-| **Website Redesign** | Took an outdated site and redesigned it using Figma and Tailwind CSS |
+🧪 Side Skills
+Though focused on GRC, I’ve also explored data, scripting, and frontend tools to sharpen my problem-solving and automation skills.
 
 ---
 
