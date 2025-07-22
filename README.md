@@ -57,7 +57,7 @@ Browse my projects below or connect with me on LinkedIn
 | Project | Description |
 |--------|-------------|
 | ## 🔐 [Access Control Policy Audit](https://github.com/Andy-Hutch/Andy-Hutch/blob/main/Access%20Control%20Policy%20Audit/Access%20Control%20Policy%20Audit.md) | Developed an access policy, created a role-access matrix, and conducted an internal audit to evaluate least privilege and RBAC implementation |
-| Third-Party Risk Assessment | Built a full third-party avaluation workflow, including an ISO 27001-based questionnaire, risk scoring matrix, and visual heat map |
+| ## 🤝 [Third-Party Risk Assessment] | Built a full third-party avaluation workflow, including an ISO 27001-based questionnaire, risk scoring matrix, and visual heat map |
 | Security Awareness Program | Created a full training program with slides, a phishing simulation plan, and a four-week awareness email compaign |
 | Internal Risk Register | Compiled a dynamic risk register capturing likelihood, impact, and mitigation strategies across IT threats and business risk |
 | IT Audit Checklist & Report | Donducted a mock IT audit using NIST-aligned controls and documented evidence, gaps, and recommendations in a formal report |
