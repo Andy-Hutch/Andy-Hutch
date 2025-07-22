@@ -1,16 +1,17 @@
 # 👋 Hi, I'm Andy Hutchison
 
-I'm transitioning into **cybersecurity with a focus on GRC** (Governance, Risk, and Compliance) after graduating from Merit America and earning my Google Cybersecurity Certificate.
+I'm a GRC Analyst focused on Governance, Risk, and Compliance in cybersecurity. With a background in IT fundamentals and a growing portfolio of real-world projects, I specialize in helping organizations stay compliant, reduce risk, and improve their security posture.
 
 ---
 
 ### 🔐 What I Do
 
-- Build security policies and conduct internal audits aligned with NIST and CIS controls
-- Create basic GRC reports, riskk registers, and third-party risk evaluations
-- Develop security awareness content and phishing simulations for small teams
-- Use Python & Bash for simple automation of security tasks like file monitoring and reporting
-- Help improve digital hygience through password policies and access reviews
+· Develop and implement security policies aligned with NIST and CIS frameworks
+· Conduct internal audits and assess organizational risk using risk registers and control mapping
+· Evaluate third-party vendors and create risk scoring models
+· Design and deliver security awareness programs, including phishing simulations
+· Automate tasks like file integrity checks, log parsing, and reporting with Python and Bash
+· Promote digital hygiene through access reviews, password policies, and endpoint hardening
 
 ---
 
@@ -24,13 +25,13 @@ Chronicle · Splunk · Suricata · Wireshark · Tcpdump
 
 ### 🚀 Current Goal
 
-Continue building hands-on GRC and cybersecurity projects while helping teams stay compliant, mitigate risk, and enhance operational security.
+I'm continuing to build hands-on experience through self-directed GRC and cybersecurity projects while preparing for Security+ certification. My goal is to contribute to teams that value security governance, compliance readiness, and risk-informed decision-making.
 
 ---
 
 ### 📫 Let's Connect
 
-View myu work below or reach out to me via [LinkedIn](https://www.linkedin.com/in/hutchisonandy86/)
+Browse my projects below or connect with me on LinkedIn
 
 ---
 
