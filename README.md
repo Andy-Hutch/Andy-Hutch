@@ -37,7 +37,7 @@ Browse my projects below or connect with me on LinkedIn
 
 ## 🧠 GRC Portfolio
 
-> Some project files are in PDF format to preserve formatting, include screenshots, and improve readability.
+> Below are hands-on projects I've completed to apply GRC concepts in realisc environments -- from internal audit prep to threat analysis and network security.
 
 | Project | GRC Skills Gained |
 |--------|-------------------|
