@@ -56,10 +56,11 @@ Browse my projects below or connect with me on LinkedIn
 
 | Project | Description |
 |--------|-------------|
-| Security Awareness Program | Google Slides deck, phishing simulation plan, and a multi-step email campaign |
-| Third-Party Risk Review | Vendor risk matrix, risk scoring sheet, and Google Docs report template |
-| IT Risk Register | Sample company-wide risk register with impact/likelihood scoring |
-| GRC Audit Template Pack | Downloadable PDF/Google Docs template for new analysts |
+| Security Control Policy | Developed an access policy, created a role-access matrix, and conducted an internal audit to evaluate least privilege and RBAC implementation |
+| Third-Party Risk Assessment | Built a full third-party avaluation workflow, including an ISO 27001-based questionnaire, risk scoring matrix, and visual heat map |
+| Security Awareness Program | Created a full training program with slides, a phishing simulation plan, and a four-week awareness email compaign |
+| Internal Risk Register | Compiled a dynamic risk register capturing likelihood, impact, and mitigation strategies across IT threats and business risk |
+| IT Audit Checklist & Report | Donducted a mock IT audit using NIST-aligned controls and documented evidence, gaps, and recommendations in a formal report |
 
 ---
 
