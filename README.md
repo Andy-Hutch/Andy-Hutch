@@ -53,11 +53,12 @@ I'm a **data-driven professional and cybersecurity analyst** with hands-on exper
 
 ---
 
-### ✅ Why This Matters for Club America Administrator Role
+### ✅ Skills Demonstrated in My Projects
 
-- Projects demonstrate **strong data handling, analysis, and reporting skills** — directly relevant for compiling student contact data, tracking metrics, and CIP reporting.  
-- **Automation and workflow optimization** projects show you can streamline repetitive tasks and save time.  
-- Experience with **logs, monitoring, and structured documentation** reflects **attention to detail and process management**, which aligns with managing donations, materials, and program growth.  
+- Strong data handling, analysis, and reporting capabilities  
+- Automation and workflow optimization to improve efficiency  
+- Attention to detail, structured documentation, and process management  
+- Problem-solving and applied technical skills across cybersecurity and analytics
 
 ---
 
