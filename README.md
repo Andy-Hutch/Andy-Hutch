@@ -1,37 +1,41 @@
 # 👋 Hi, I'm Andy Hutchison
 
-I'm a GRC Analyst focused on Governance, Risk, and Compliance in cybersecurity. With a background in IT fundamentals and a growing portfolio of real-world projects, I specialize in helping organizations stay compliant, reduce risk, and improve their security posture.
+I'm a data-driven professional and GRC analyst with hands-on experience in analytics, process improvement, and automation. I specialize in turning complex data into actionable insights, building systems to track growth, and automationg reporting workflows. My goas is to support organizations in making strategic, data-informed decisions while improving operation efficiency.
 
 ---
 
 ### 🔐 What I Do
 
-· Develop and implement security policies aligned with NIST and CIS frameworks
-· Conduct internal audits and assess organizational risk using risk registers and control mapping
-· Evaluate third-party vendors and create risk scoring models
-· Design and deliver security awareness programs, including phishing simulations
-· Automate tasks like file integrity checks, log parsing, and reporting with Python and Bash
-· Promote digital hygiene through access reviews, password policies, and endpoint hardening
+· Process and analyze large datasets to support strategic goals.
+· Build and automate reporting workflows using Python, Bash, and Google Workspace.
+· Manage and track program data, including contacts, materials, and performance metrics.
+· Develop and implement systems to measure growth and program impact.
+· Compile weekly and monthly analytics reports for leadership and stakeholders.
+· Promote accuracy, efficiency, and compliance in all data management tasks.
 
 ---
 
-### 🛠️ Tools & Frameworks I Use
+### 🛠️ Tools & Platforms I Use
 
-VS Code · Google Workspace · Python · Bash · Linux · Windows
-NIST CSF · NIST 800-53 · CIS Controls · Risk Registers · Google Sheets/Docs
-Chronicle · Splunk · Suricata · Wireshark · Tcpdump
-
----
-
-### 🚀 Current Goal
-
-I'm continuing to build hands-on experience through self-directed GRC and cybersecurity projects while preparing for Security+ certification. My goal is to contribute to teams that value security governance, compliance readiness, and risk-informed decision-making.
+· Data & Reporting: Google Sheets, Google Docs, AirTable, HubSpot, Python, Bash
+· Analytics & Monitoring: Risk Registers, Audit Templates, Log Analysis
+· Security/GRC: NIST CSF, NIST 800-53, CIS Controls, Chronicle, Splunk
+· Documentation & Design: Google Workspace, Markdown, Figma, Notion
 
 ---
 
-### 📫 Let's Connect
+🚀 Key Projects & Achievements
+Project	Skills & Outcomes
+Automation with Python	Built scripts to automate reporting, track metrics, and analyze large datasets.
+Network & Log Analysis	Collected and processed data to identify trends and actionable insights.
+Access Control & Risk Registers	Developed systems to track compliance, assess risk, and generate executive reports.
+Security Awareness Program	Designed structured workflows, training materials, and measurable KPIs for engagement.
+IDS & SIEM Monitoring	Processed security event data, created dashboards, and provided actionable reporting.
+---
 
-Browse my projects below or connect with me on LinkedIn
+### 📫 Let’s Connect
+
+I’m always looking for opportunities to use data to drive meaningful results. Browse my GRC & analytics projects
 
 ---
 
@@ -64,9 +68,12 @@ Browse my projects below or connect with me on LinkedIn
 
 ---
 
-🧪 Side Skills
-Though focused on GRC, I’ve also explored data, scripting, and frontend tools to sharpen my problem-solving and automation skills.
-
+💡 Soft Skills & Strengths
+· Self-starter, motivated, and goal-oriented.
+· Strong analytical mindset with a focus on accuracy and detail.
+· Innovative problem-solving with process improvement experience.
+· Excellent communication skills, able to compile data into clear reports.
+· Adaptable to dynamic, fast-paced environments.
 ---
 
 ### 🔧 Tools I Use Often
