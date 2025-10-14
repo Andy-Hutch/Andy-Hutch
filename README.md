@@ -14,12 +14,24 @@ I enable organizations to master compliance, slash risk, and make smarter decisi
 
 ---
 
-## 🛠️ Tools & Platforms I Use
+## 🛠️ **Tools & Platforms I Use**
 
-- **Data & Reporting:** Google Sheets, Google Docs, AirTable, HubSpot, Python, Bash  
-- **Analytics & Monitoring:** Risk Registers, Audit Templates, Log Analysis  
-- **Security / Cybersecurity:** NIST CSF, NIST 800-53, CIS Controls, Chronicle, Splunk  
-- **Documentation & Design:** Google Workspace, Markdown, Figma, Notion  
+- **Data & Automation:**  
+  Python · Bash · Google Sheets/Docs · AirTable · HubSpot  
+  *Powering dynamic reporting, workflow automation, and actionable insights*
+
+- **Analytics & GRC Monitoring:**  
+  Risk Registers · Audit Templates · Advanced Log Analysis  
+  *Driving real-time risk assessment, compliance tracking, and executive confidence*
+
+- **Security & Cyber:**  
+  NIST CSF · NIST 800-53 · CIS Controls · Chronicle · Splunk  
+  *Enabling robust security posture, threat detection, and seamless audit compliance*
+
+- **Documentation & Design:**  
+  Google Workspace · Markdown · Figma · Notion  
+  *Producing clear, professional reports and intuitive program materials*
+
 
 ---
 
