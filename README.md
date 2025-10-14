@@ -1,6 +1,8 @@
-# 🔒 GRC & Data Analytics Professional — Securing Compliance, Driving Impact, Delivering Clarity
+# 🔒 **GRC & Data Analytics Professional — Securing Compliance, Driving Impact, Delivering Clarity**
 
-I enable organizations to master compliance, slash risk, and make smarter decisions with actionable data. Leveraging GRC expertise and security analytics, I automate processes, deliver executive-level insights, and drive measurable improvements across NIST frameworks. Proven to boost audit outcomes and compliance efficiency—ready to elevate your organization in GRC, analytics, or SOC
+Empowering organizations to master compliance, slash risk, and make smarter decisions with actionable data—from hands-on labs, top certs, and real-world simulations. Leveraging GRC expertise and security analytics, I automate workflows, deliver executive insights, and drive measurable improvements using NIST frameworks. Proven project success in boosting audit outcomes and efficiency—ready to elevate your team in GRC, analytics, or SOC!
+
+
 ---
 
 ## 🔐 **What I Do**
