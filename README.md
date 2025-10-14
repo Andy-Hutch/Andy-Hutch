@@ -3,6 +3,8 @@
 Empowering organizations to master compliance, slash risk, and make smarter decisions with actionable data—from hands-on labs, top certs, and real-world simulations. Leveraging GRC expertise and security analytics, I automate workflows, deliver executive insights, and drive measurable improvements using NIST frameworks. Proven project success in boosting audit outcomes and efficiency—ready to elevate your team in GRC, analytics, or SOC!
 
 
+
+
 ---
 
 ## 🔐 **What I Do**
