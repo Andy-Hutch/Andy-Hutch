@@ -39,15 +39,22 @@ Empowering organizations to master compliance, slash risk, and make smarter deci
 
 ---
 
-## 🚀 Key Projects & Achievements
+## 🚀 **Key Projects & Achievements**
 
-| Project | Skills & Outcomes |
-|---------|-----------------|
-| **Automation with Python** | Built scripts to automate reporting, track metrics, and analyze large datasets |
-| **Network & Log Analysis** | Collected and processed data to identify trends and actionable insights |
-| **Access Control & Risk Registers** | Developed systems to track compliance, assess risk, and generate executive reports |
-| **Security Awareness Program** | Designed structured workflows, training materials, and measurable KPIs for engagement |
-| **IDS & SIEM Monitoring** | Processed security event data, created dashboards, and provided actionable reporting |
+- **Automation with Python:**  
+  Built scripts to automate compliance reporting, track key metrics, and deliver actionable data insights—demonstrated in labs and certifications.
+
+- **Network & Log Analysis:**  
+  Processed security event and network data to uncover trends, inform risk decisions, and support simulated incident investigations.
+
+- **Access Control & Risk Registers:**  
+  Developed systems to monitor compliance, assess risk, and generate executive-level reports—boosted audit readiness in training environments.
+
+- **Security Awareness Program:**  
+  Designed structured workflows, training materials, and KPIs adopted in simulation labs; drove measurable engagement and compliance culture.
+
+- **IDS & SIEM Monitoring:**  
+  Automated security event monitoring and dashboard creation with Splunk/Chronicle, enabling rapid response and executive reporting in hands-on projects.
 
 ---
 
