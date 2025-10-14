@@ -5,12 +5,12 @@ I enable organizations to master compliance, slash risk, and make smarter decisi
 
 ## 🔐 What I Do
 
-- Process and analyze large datasets to support strategic goals  
-- Build and automate reporting workflows using **Python, Bash, and Google Workspace**  
-- Manage and track program data, including contacts, materials, and performance metrics  
-- Develop and implement systems to **measure growth and program impact**  
-- Compile weekly and monthly analytics reports for leadership and stakeholders  
-- Promote accuracy, efficiency, and compliance in all data management tasks  
+- Transform complex datasets into powerful, decision-driving compliance and risk insights for leaders  
+- Engineer and automate audit-ready reporting and dashboards with Python, Bask, and Google Workspace—saving teams hours each month 
+- Architect real-time systems to track program data, measure business impact, and ensure continuous improvement 
+- Deleiver analytics that illuminate trends, flag risks, and sharpen executive strategy  
+- Ensure data accuracy, process efficiency, and ironclad compliance in every project  
+- Advance operational exvellence with automated solutions and GRC best practices  
 
 ---
 
