@@ -76,12 +76,13 @@ Empowering organizations to master compliance, slash risk, and make smarter deci
 
 ---
 
-### ✅ Skills Demonstrated in My Projects
+### ✅ **Skills Demonstrated in My Projects**
 
-- Strong data handling, analysis, and reporting capabilities  
-- Automation and workflow optimization to improve efficiency  
-- Attention to detail, structured documentation, and process management  
-- Problem-solving and applied technical skills across cybersecurity and analytics
+- Advanced data handling, analytics, and executive-level reporting for risk and compliance scenarios  
+- Automation of repetitive processes and workflows—boosting efficiency and audit readiness  
+- Precision in documentation, data accuracy, and end-to-end process management  
+- Proven problem-solving and technical execution across cybersecurity, GRC, and analytics challenges
+
 
 ---
 
