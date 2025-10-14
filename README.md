@@ -86,26 +86,36 @@ Empowering organizations to master compliance, slash risk, and make smarter deci
 
 ---
 
-## 💡 Soft Skills & Strengths
+## 💡 **Soft Skills & Strengths**
 
-- Self-starter, motivated, and goal-oriented  
-- Strong analytical mindset with a focus on accuracy and detail  
-- Innovative problem-solving and process improvement experience  
-- Excellent communication skills; able to compile data into clear, actionable reports  
-- Adaptable to dynamic, fast-paced environments  
+- Proactive self-starter—driven to set and surpass ambitious goals  
+- Analytical mindset—precision-focused with uncompromising attention to detail  
+- Resourceful problem-solver—innovates and optimizes processes for maximum efficiency  
+- Exceptional communicator—transforms complex data into clear, actionable reports for any audience  
+- Thrives in dynamic, fast-paced environments—adapting rapidly and delivering results
+  
 
 ---
 
-## 🔧 Additional Tools I Use
+## 🔧 **Additional Tools I Use**
 
 - **Security / Cybersecurity:** Chronicle · Splunk · Suricata · Tcpdump · Wireshark · Google Workspace  
+  *Strengthening threat detection, incident response, and seamless team collaboration*
+
 - **Scripting / Automation:** Python · Bash · CLI tools · Markdown  
+  *Automating tasks, optimizing workflows, and accelerating productivity*
+
 - **Documentation:** Google Docs/Sheets · PDF · Notion  
+  *Delivering clear, organized, and actionable reports and resources*
+
 - **Design / UI Work:** Figma · HTML · Tailwind CSS  
+  *Creating intuitive interfaces and high-impact user experiences*
+  
 
 ---
 
-## 🚧 This Portfolio is Evolving
+## 🚧 **This Portfolio is Evolving**
 
-I consistently update this GitHub with new **cybersecurity and analytics projects, automation workflows, and learning milestones**.  
-Thanks for visiting — stay tuned!
+I continuously expand this GitHub with new cybersecurity and analytics projects, automation workflows, and GRC learning milestones.  
+Stay tuned for fresh solutions, impactful achievements, and innovative approaches—thanks for visiting!
+
