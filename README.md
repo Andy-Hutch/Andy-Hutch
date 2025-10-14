@@ -1,7 +1,6 @@
-# 👋 Hi, I'm Andy Hutchison
+# 🔒 GRC & Data Analytics Professional — Securing Compliance, Driving Impact, Delivering Clarity
 
-I'm a **data-driven professional and cybersecurity analyst** with hands-on experience in **analytics, process improvement, and automation**. I specialize in turning complex data into actionable insights, building systems to track growth, and automating reporting workflows. My goal is to support organizations in **making strategic, data-informed decisions** while improving operational efficiency.
-
+I enable organizations to master compliance, slash risk, and make smarter decisions with actionable data. Leveraging GRC expertise and security analytics, I automate processes, deliver executive-level insights, and drive measurable improvements across NIST frameworks. Proven to boost audit outcomes and compliance efficiency—ready to elevate your organization in GRC, analytics, or SOC
 ---
 
 ## 🔐 What I Do
