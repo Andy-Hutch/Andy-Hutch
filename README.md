@@ -58,20 +58,21 @@ Empowering organizations to master compliance, slash risk, and make smarter deci
 
 ---
 
-## 📊 Cybersecurity Projects (Google Cybersecurity Professional Certificate)
+## 📊 **Cybersecurity Projects (Google Cybersecurity Professional Certificate)**
 
-> Hands-on projects completed as part of the Google Cybersecurity Professional Certificate, showcasing applied skills in **data analysis, monitoring, automation, and reporting**.
+> Completed hands-on projects from the Google Cybersecurity Professional Certificate program, demonstrating real-world expertise in data analysis, monitoring, automation, and reporting—all in alignment with GRC and security best practices.
 
-| Project | Skills Gained |
-|--------|---------------|
-| [Conduct a Security Audit](https://github.com/Andy-Hutch/Andy-Hutch/tree/main/1%20-%20Conduct%20an%20Audit) | `Data collection & analysis`, `Policy mapping`, `Report generation`, `Incident documentation` |
-| [Network Security Review](https://github.com/Andy-Hutch/Andy-Hutch/tree/main/2%20-%20Network%20Security) | `Risk assessment`, `Network controls analysis`, `Asset classification`, `Trend identification` |
-| [Linux & SQL](https://github.com/Andy-Hutch/Andy-Hutch/tree/main/3%20-%20Linux%20%26%20SQL) | `Command-line data investigation`, `Log review`, `Database querying`, `Evidence tracking` |
-| [Assets, Threats, & Vulnerabilities](https://github.com/Andy-Hutch/Andy-Hutch/tree/main/4%20-%20Assets%20%26%20Threats%20%20%26%20Vulnerabilities) | `Threat modeling`, `Vulnerability classification`, `Data organization` |
-| [Detection & Response](https://github.com/Andy-Hutch/Andy-Hutch/tree/main/5%20-%20Detection%20%26%20response) | `Incident response planning`, `Audit trail creation`, `Reporting insights` |
-| [Tcpdump & Wireshark](https://github.com/Andy-Hutch/Andy-Hutch/tree/main/6%20-%20Tcpdump%20%26%20Wireshark) | `Packet capture analysis`, `Data monitoring`, `Evidence collection` |
-| [IDS & SIEM](https://github.com/Andy-Hutch/Andy-Hutch/tree/main/7%20-%20IDS%20%26%20SIEM) | `Event correlation`, `Security monitoring`, `Dashboard reporting` |
-| [Automation with Python](https://github.com/Andy-Hutch/Andy-Hutch/tree/main/8%20-%20Automation%20with%20Python) | `Process automation`, `Data analysis scripts`, `Report generation`, `Workflow improvement` |
+| Project | Skills Demonstrated |
+|---------|--------------------|
+| [Conduct a Security Audit](https://github.com/Andy-Hutch/Andy-Hutch/tree/main/1%20-%20Conduct%20an%20Audit) | Data collection/analysis · Policy mapping · Executive report generation · Incident documentation |
+| [Network Security Review](https://github.com/Andy-Hutch/Andy-Hutch/tree/main/2%20-%20Network%20Security) | Risk assessment · Controls analysis · Asset classification · Trend identification |
+| [Linux & SQL](https://github.com/Andy-Hutch/Andy-Hutch/tree/main/3%20-%20Linux%20%26%20SQL) | Command-line data investigation · Log review · SQL querying · Evidence tracking |
+| [Assets, Threats, & Vulnerabilities](https://github.com/Andy-Hutch/Andy-Hutch/tree/main/4%20-%20Assets%20%26%20Threats%20%20%26%20Vulnerabilities) | Threat modeling · Vulnerability classification · Security data organization |
+| [Detection & Response](https://github.com/Andy-Hutch/Andy-Hutch/tree/main/5%20-%20Detection%20%26%20response) | Incident response planning · Audit trail creation · Reporting insights |
+| [Tcpdump & Wireshark](https://github.com/Andy-Hutch/Andy-Hutch/tree/main/6%20-%20Tcpdump%20%26%20Wireshark) | Packet capture analysis · Data monitoring · Evidence collection |
+| [IDS & SIEM](https://github.com/Andy-Hutch/Andy-Hutch/tree/main/7%20-%20IDS%20%26%20SIEM) | Event correlation · Security monitoring · Dashboard reporting |
+| [Automation with Python](https://github.com/Andy-Hutch/Andy-Hutch/tree/main/8%20-%20Automation%20with%20Python) | Process automation · Data analysis scripting · Report generation · Workflow improvement |
+
 
 ---
 
