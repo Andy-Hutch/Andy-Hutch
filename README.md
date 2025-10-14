@@ -3,14 +3,14 @@
 I enable organizations to master compliance, slash risk, and make smarter decisions with actionable data. Leveraging GRC expertise and security analytics, I automate processes, deliver executive-level insights, and drive measurable improvements across NIST frameworks. Proven to boost audit outcomes and compliance efficiency—ready to elevate your organization in GRC, analytics, or SOC
 ---
 
-## 🔐 What I Do
+## 🔐 **What I Do**
 
-- Transform complex datasets into powerful, decision-driving compliance and risk insights for leaders  
-- Engineer and automate audit-ready reporting and dashboards with Python, Bask, and Google Workspace—saving teams hours each month 
-- Architect real-time systems to track program data, measure business impact, and ensure continuous improvement 
-- Deleiver analytics that illuminate trends, flag risks, and sharpen executive strategy  
-- Ensure data accuracy, process efficiency, and ironclad compliance in every project  
-- Advance operational exvellence with automated solutions and GRC best practices  
+- Analyze and interpret complex datasets to uncover risk and compliance insights through hands-on labs and training projects
+- Build and automate reporting workflows using Python, Bash, and Google Workspace as demonstrated in industry-recognized certifications
+- Design systems and dashboards to track program data, measure impact, and support strategic decisions—all proven in bootcamp and certificate simulations
+- Compile and present analytics reports for stakeholders, focusing on clarity, compliance, and actionable next steps
+- Champion accuracy, efficiency, and data integrity across all simulated and portfolio projects—ready to apply skills in a live business environment
+  
 
 ---
 
