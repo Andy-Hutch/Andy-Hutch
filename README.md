@@ -66,16 +66,17 @@ Built scripts using Python, Bash, and PowerShell to streamline alert processing,
 ## 📊 Cybersecurity Projects (Hands-On SOC & Security Labs)
 
 Completed hands-on projects simulating real-world SOC and security operations scenarios. Demonstrated expertise in alert triage, network & endpoint monitoring, incident response, and security automation.
-|                                                                                                                                                    | Skills Demonstrated                                                                                                |
-| -------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| [Security Audit Simulation](https://github.com/Andy-Hutch/Andy-Hutch/tree/main/1%20-%20Conduct%20an%20Audit)                                       | Reviewing system logs · Identifying potential attack vectors · Incident documentation · Security workflow analysis |
-| [Network Security Review](https://github.com/Andy-Hutch/Andy-Hutch/tree/main/2%20-%20Network%20Security)                                           | Packet capture analysis · Firewall review · Intrusion detection · Threat pattern recognition                       |
-| [Linux & SQL Labs](https://github.com/Andy-Hutch/Andy-Hutch/tree/main/3%20-%20Linux%20%26%20SQL)                                                   | Command-line investigation · Log parsing · Querying event data · Evidence tracking for alerts                      |
-| [Assets, Threats, & Vulnerabilities](https://github.com/Andy-Hutch/Andy-Hutch/tree/main/4%20-%20Assets%20%26%20Threats%20%20%26%20Vulnerabilities) | Threat modeling · Vulnerability classification · Asset monitoring · Security incident preparation                  |
-| [Detection & Response](https://github.com/Andy-Hutch/Andy-Hutch/tree/main/5%20-%20Detection%20%26%20response)                                      | Simulated phishing & malware response · Alert escalation · Containment strategies · Post-incident reporting        |
-| [Tcpdump & Wireshark](https://github.com/Andy-Hutch/Andy-Hutch/tree/main/6%20-%20Tcpdump%20%26%20Wireshark)                                        | Network traffic analysis · Packet inspection · Detecting anomalies · Evidence collection                           |
-| [IDS & SIEM](https://github.com/Andy-Hutch/Andy-Hutch/tree/main/7%20-%20IDS%20%26%20SIEM)                                                          | Event correlation · Security alert monitoring · Dashboard creation · Incident triage                               |
-| [Automation with Python](https://github.com/Andy-Hutch/Andy-Hutch/tree/main/8%20-%20Automation%20with%20Python)                                    | Automating alert workflows · Log parsing scripts · Incident response support · SOC efficiency improvement          |
+
+| Project                                | Skills Demonstrated                                                                                                |
+| -------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| **Security Audit Simulation**          | Reviewing system logs · Identifying potential attack vectors · Incident documentation · Security workflow analysis |
+| **Network Security Review**            | Packet capture analysis · Firewall review · Intrusion detection · Threat pattern recognition                       |
+| **Linux & SQL Labs**                   | Command-line investigation · Log parsing · Querying event data · Evidence tracking for alerts                      |
+| **Assets, Threats, & Vulnerabilities** | Threat modeling · Vulnerability classification · Asset monitoring · Security incident preparation                  |
+| **Detection & Response**               | Simulated phishing & malware response · Alert escalation · Containment strategies · Post-incident reporting        |
+| **Tcpdump & Wireshark**                | Network traffic analysis · Packet inspection · Detecting anomalies · Evidence collection                           |
+| **IDS & SIEM**                         | Event correlation · Security alert monitoring · Dashboard creation · Incident triage                               |
+| **Automation with Python**             | Automating alert workflows · Log parsing scripts · Incident response support · SOC efficiency improvement          |
 
 
 
