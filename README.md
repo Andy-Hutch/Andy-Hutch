@@ -41,83 +41,88 @@ Recording incidents, updating playbooks, and coordinating with SOC team members
 
 ---
 
-## 🚀 **Key Projects & Achievements**
+## 🚀 Key Projects & Achievements
 
-- **Automation with Python:**  
-  Built scripts to automate compliance reporting, track key metrics, and deliver actionable data insights—demonstrated in labs and certifications.
+**SOC Alert Triage & Incident Response:**
+Monitored alerts in simulated SOC environments, investigated suspicious activity, and escalated incidents to L2 analysts or CERT teams.
 
-- **Network & Log Analysis:**  
-  Processed security event and network data to uncover trends, inform risk decisions, and support simulated incident investigations.
+**Phishing & Malware Analysis:**
+Conducted hands-on analysis of phishing campaigns and malware samples to identify threats and recommend containment measures.
 
-- **Access Control & Risk Registers:**  
-  Developed systems to monitor compliance, assess risk, and generate executive-level reports—boosted audit readiness in training environments.
+**Ransomware Response Labs:**
+Participated in ransomware scenarios to practice detection, containment, and recovery strategies in a controlled environment.
 
-- **Security Awareness Program:**  
-  Designed structured workflows, training materials, and KPIs adopted in simulation labs; drove measurable engagement and compliance culture.
+**SIEM & IDS Monitoring:**
+Configured dashboards, monitored events, and automated alert triage using Splunk, Elastic Stack, Chronicle, and IDS tools.
 
-- **IDS & SIEM Monitoring:**  
-  Automated security event monitoring and dashboard creation with Splunk/Chronicle, enabling rapid response and executive reporting in hands-on projects.
+**Network & Log Analysis:**
+Analyzed network traffic and endpoint logs with Wireshark, Tcpdump, and log aggregation tools to detect anomalies and potential breaches.
 
----
-
-## 📊 **Cybersecurity Projects (Google Cybersecurity Professional Certificate)**
-
-> Completed hands-on projects from the Google Cybersecurity Professional Certificate program, demonstrating real-world expertise in data analysis, monitoring, automation, and reporting—all in alignment with GRC and security best practices.
-
-| Project | Skills Demonstrated |
-|---------|--------------------|
-| [Conduct a Security Audit](https://github.com/Andy-Hutch/Andy-Hutch/tree/main/1%20-%20Conduct%20an%20Audit) | Data collection/analysis · Policy mapping · Executive report generation · Incident documentation |
-| [Network Security Review](https://github.com/Andy-Hutch/Andy-Hutch/tree/main/2%20-%20Network%20Security) | Risk assessment · Controls analysis · Asset classification · Trend identification |
-| [Linux & SQL](https://github.com/Andy-Hutch/Andy-Hutch/tree/main/3%20-%20Linux%20%26%20SQL) | Command-line data investigation · Log review · SQL querying · Evidence tracking |
-| [Assets, Threats, & Vulnerabilities](https://github.com/Andy-Hutch/Andy-Hutch/tree/main/4%20-%20Assets%20%26%20Threats%20%20%26%20Vulnerabilities) | Threat modeling · Vulnerability classification · Security data organization |
-| [Detection & Response](https://github.com/Andy-Hutch/Andy-Hutch/tree/main/5%20-%20Detection%20%26%20response) | Incident response planning · Audit trail creation · Reporting insights |
-| [Tcpdump & Wireshark](https://github.com/Andy-Hutch/Andy-Hutch/tree/main/6%20-%20Tcpdump%20%26%20Wireshark) | Packet capture analysis · Data monitoring · Evidence collection |
-| [IDS & SIEM](https://github.com/Andy-Hutch/Andy-Hutch/tree/main/7%20-%20IDS%20%26%20SIEM) | Event correlation · Security monitoring · Dashboard reporting |
-| [Automation with Python](https://github.com/Andy-Hutch/Andy-Hutch/tree/main/8%20-%20Automation%20with%20Python) | Process automation · Data analysis scripting · Report generation · Workflow improvement |
-
+**Automation & Scripting:**
+Built scripts using Python, Bash, and PowerShell to streamline alert processing, log parsing, and reporting workflows.
 
 ---
 
-### ✅ **Skills Demonstrated in My Projects**
+## 📊 Cybersecurity Projects (Hands-On SOC & Security Labs)
 
-- Advanced data handling, analytics, and executive-level reporting for risk and compliance scenarios  
-- Automation of repetitive processes and workflows—boosting efficiency and audit readiness  
-- Precision in documentation, data accuracy, and end-to-end process management  
-- Proven problem-solving and technical execution across cybersecurity, GRC, and analytics challenges
+Completed hands-on projects simulating real-world SOC and security operations scenarios. Demonstrated expertise in alert triage, network & endpoint monitoring, incident response, and security automation.
+|                                                                                                                                                    | Skills Demonstrated                                                                                                |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| [Security Audit Simulation](https://github.com/Andy-Hutch/Andy-Hutch/tree/main/1%20-%20Conduct%20an%20Audit)                                       | Reviewing system logs · Identifying potential attack vectors · Incident documentation · Security workflow analysis |
+| [Network Security Review](https://github.com/Andy-Hutch/Andy-Hutch/tree/main/2%20-%20Network%20Security)                                           | Packet capture analysis · Firewall review · Intrusion detection · Threat pattern recognition                       |
+| [Linux & SQL Labs](https://github.com/Andy-Hutch/Andy-Hutch/tree/main/3%20-%20Linux%20%26%20SQL)                                                   | Command-line investigation · Log parsing · Querying event data · Evidence tracking for alerts                      |
+| [Assets, Threats, & Vulnerabilities](https://github.com/Andy-Hutch/Andy-Hutch/tree/main/4%20-%20Assets%20%26%20Threats%20%20%26%20Vulnerabilities) | Threat modeling · Vulnerability classification · Asset monitoring · Security incident preparation                  |
+| [Detection & Response](https://github.com/Andy-Hutch/Andy-Hutch/tree/main/5%20-%20Detection%20%26%20response)                                      | Simulated phishing & malware response · Alert escalation · Containment strategies · Post-incident reporting        |
+| [Tcpdump & Wireshark](https://github.com/Andy-Hutch/Andy-Hutch/tree/main/6%20-%20Tcpdump%20%26%20Wireshark)                                        | Network traffic analysis · Packet inspection · Detecting anomalies · Evidence collection                           |
+| [IDS & SIEM](https://github.com/Andy-Hutch/Andy-Hutch/tree/main/7%20-%20IDS%20%26%20SIEM)                                                          | Event correlation · Security alert monitoring · Dashboard creation · Incident triage                               |
+| [Automation with Python](https://github.com/Andy-Hutch/Andy-Hutch/tree/main/8%20-%20Automation%20with%20Python)                                    | Automating alert workflows · Log parsing scripts · Incident response support · SOC efficiency improvement          |
+
 
 
 ---
 
-## 💡 **Soft Skills & Strengths**
+### ✅ Skills Demonstrated in My Projects
 
-- Proactive self-starter—driven to set and surpass ambitious goals  
-- Analytical mindset—precision-focused with uncompromising attention to detail  
-- Resourceful problem-solver—innovates and optimizes processes for maximum efficiency  
-- Exceptional communicator—transforms complex data into clear, actionable reports for any audience  
-- Thrives in dynamic, fast-paced environments—adapting rapidly and delivering results
+**Alert Triage & Incident Response:** Analyzing security alerts, investigating incidents, and escalating threats efficiently
+**Phishing, Malware & Ransomware Analysis:** Detecting, containing, and documenting malicious activity
+**SIEM & IDS Monitoring:** Correlating events, monitoring dashboards, and identifying suspicious patterns
+**Network & Endpoint Investigation:** Using Wireshark, Tcpdump, and log analysis to detect anomalies and evidence of attacks
+**Automation & Scripting for Security:** Building Python, Bash, and PowerShell scripts to streamline SOC workflows
+**Documentation & SOC Collaboration:** Maintaining playbooks, writing clear incident reports, and supporting team knowledge sharing
+
+
+---
+
+## 💡 Soft Skills & Strengths
+
+**Proactive & Vigilant:** Quickly identifies and investigates suspicious activity before threats escalate
+**Analytical Mindset:** Precision-focused with strong attention to detail when reviewing alerts and logs
+**Problem-Solver Under Pressure:** Efficiently triages incidents and devises containment strategies in fast-paced environments
+**Effective Communicator:** Clearly documents incidents, escalations, and findings for teammates and management
+**Team-Oriented & Adaptable:** Collaborates across SOC teams and adapts to evolving threats and operational needs
   
 
 ---
 
-## 🔧 **Additional Tools I Use**
+## 🔧 Additional Tools I Use
 
-- **Security / Cybersecurity:** Chronicle · Splunk · Suricata · Tcpdump · Wireshark · Google Workspace  
-  *Strengthening threat detection, incident response, and seamless team collaboration*
+**Security & Monitoring:** Chronicle · Splunk · Suricata · Wireshark · Tcpdump · EDR Tools
+Monitoring alerts, analyzing network traffic, and supporting rapid incident response
 
-- **Scripting / Automation:** Python · Bash · CLI tools · Markdown  
-  *Automating tasks, optimizing workflows, and accelerating productivity*
+**Scripting & Automation:** Python · Bash · PowerShell · CLI Tools · Markdown
+Automating alert triage, log analysis, and SOC workflows for efficiency
 
-- **Documentation:** Google Docs/Sheets · PDF · Notion  
-  *Delivering clear, organized, and actionable reports and resources*
+**Documentation & Reporting:** Google Docs/Sheets · Notion · PDF · Ticketing Systems
+Creating clear incident reports, updating playbooks, and collaborating with SOC teams
 
-- **Design / UI Work:** Figma · HTML · Tailwind CSS  
-  *Creating intuitive interfaces and high-impact user experiences*
+**Visualization & Interface Tools:** Figma · HTML · Tailwind CSS
+Designing dashboards, reports, and intuitive SOC interfaces
   
 
 ---
 
-## 🚧 **This Portfolio is Evolving**
+## 🚧 This Portfolio is Evolving
 
-I continuously expand this GitHub with new cybersecurity and analytics projects, automation workflows, and GRC learning milestones.  
-Stay tuned for fresh solutions, impactful achievements, and innovative approaches—thanks for visiting!
+I continuously expand this GitHub with hands-on SOC labs, cybersecurity projects, alert triage exercises, and incident response simulations.
+Stay tuned for new threat detection workflows, SIEM dashboards, and real-world security scenarios—thanks for visiting!
 
