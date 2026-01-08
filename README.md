@@ -67,16 +67,16 @@ Built scripts using Python, Bash, and PowerShell to streamline alert processing,
 
 Completed hands-on projects simulating real-world SOC and security operations scenarios. Demonstrated expertise in alert triage, network & endpoint monitoring, incident response, and security automation.
 
-| Project                                | Skills Demonstrated                                                                                                |
-| -------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| **Security Audit Simulation**          | Reviewing system logs · Identifying potential attack vectors · Incident documentation · Security workflow analysis |
-| **Network Security Review**            | Packet capture analysis · Firewall review · Intrusion detection · Threat pattern recognition                       |
-| **Linux & SQL Labs**                   | Command-line investigation · Log parsing · Querying event data · Evidence tracking for alerts                      |
-| **Assets, Threats, & Vulnerabilities** | Threat modeling · Vulnerability classification · Asset monitoring · Security incident preparation                  |
-| **Detection & Response**               | Simulated phishing & malware response · Alert escalation · Containment strategies · Post-incident reporting        |
-| **Tcpdump & Wireshark**                | Network traffic analysis · Packet inspection · Detecting anomalies · Evidence collection                           |
-| **IDS & SIEM**                         | Event correlation · Security alert monitoring · Dashboard creation · Incident triage                               |
-| **Automation with Python**             | Automating alert workflows · Log parsing scripts · Incident response support · SOC efficiency improvement          |
+| Project                                | Skills Demonstrated                                                                              | Repository                                                                                                           |
+| -------------------------------------- | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------- |
+| **Conduct a Security Audit**           | Data collection/analysis · Policy mapping · Executive report generation · Incident documentation | [Link](https://github.com/Andy-Hutch/Andy-Hutch/tree/main/1%20-%20Conduct%20an%20Audit)                              |
+| **Network Security Review**            | Risk assessment · Controls analysis · Asset classification · Trend identification                | [Link](https://github.com/Andy-Hutch/Andy-Hutch/tree/main/2%20-%20Network%20Security)                                |
+| **Linux & SQL**                        | Command-line data investigation · Log review · SQL querying · Evidence tracking                  | [Link](https://github.com/Andy-Hutch/Andy-Hutch/tree/main/3%20-%20Linux%20%26%20SQL)                                 |
+| **Assets, Threats, & Vulnerabilities** | Threat modeling · Vulnerability classification · Security data organization                      | [Link](https://github.com/Andy-Hutch/Andy-Hutch/tree/main/4%20-%20Assets%20%26%20Threats%20%20%26%20Vulnerabilities) |
+| **Detection & Response**               | Incident response planning · Audit trail creation · Reporting insights                           | [Link](https://github.com/Andy-Hutch/Andy-Hutch/tree/main/5%20-%20Detection%20%26%20response)                        |
+| **Tcpdump & Wireshark**                | Packet capture analysis · Data monitoring · Evidence collection                                  | [Link](https://github.com/Andy-Hutch/Andy-Hutch/tree/main/6%20-%20Tcpdump%20%26%20Wireshark)                         |
+| **IDS & SIEM**                         | Event correlation · Security monitoring · Dashboard reporting                                    | [Link](https://github.com/Andy-Hutch/Andy-Hutch/tree/main/7%20-%20IDS%20%26%20SIEM)                                  |
+| **Automation with Python**             | Process automation · Data analysis scripting · Report generation · Workflow improvement          | [Link](https://github.com/Andy-Hutch/Andy-Hutch/tree/main/8%20-%20Automation%20with%20Python)                        |
 
 
 
