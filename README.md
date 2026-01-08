@@ -9,34 +9,34 @@ Ready to bring strong analytical thinking, attention to detail, and proactive th
 
 ---
 
-## 🔐 **What I Do**
+## 🔐 What I Do
 
-- Analyze and interpret complex datasets to uncover risk and compliance insights through hands-on labs and training projects
-- Build and automate reporting workflows using Python, Bash, and Google Workspace as demonstrated in industry-recognized certifications
-- Design systems and dashboards to track program data, measure impact, and support strategic decisions—all proven in bootcamp and certificate simulations
-- Compile and present analytics reports for stakeholders, focusing on clarity, compliance, and actionable next steps
-- Champion accuracy, efficiency, and data integrity across all simulated and portfolio projects—ready to apply skills in a live business environment
-  
+- Monitor and triage security alerts using SIEM tools (Splunk, Elastic Stack) to detect and investigate threats
+- Analyze phishing campaigns, malware activity, and ransomware incidents to support incident response
+- Escalate confirmed incidents to L2 analysts, CERT, or SOC engineers, providing detailed evidence and context
+- Investigate endpoint, network, and server logs to identify suspicious activity and patterns
+- Document incidents, alert resolution, and workflow improvements for audits and team knowledge
+- Collaborate with SOC team members to optimize detection rules and streamline response processes
 
 ---
 
-## 🛠️ **Tools & Platforms I Use**
+## 🛠️ Tools & Platforms I Use
 
-- **Data & Automation:**  
-  Python · Bash · Google Sheets/Docs · AirTable · HubSpot  
-  *Powering dynamic reporting, workflow automation, and actionable insights*
+Security Monitoring & SIEM:
+Splunk · Elastic Stack · Chronicle · EDR Tools (CrowdStrike, Sentinel)
+Monitoring alerts, analyzing logs, and detecting threats in real time
 
-- **Analytics & GRC Monitoring:**  
-  Risk Registers · Audit Templates · Advanced Log Analysis  
-  *Driving real-time risk assessment, compliance tracking, and executive confidence*
+Incident Response & Analysis:
+Wireshark · Tcpdump · Sandbox Environments · Threat Intel Feeds
+Investigating phishing, malware, ransomware, and suspicious network activity
 
-- **Security & Cyber:**  
-  NIST CSF · NIST 800-53 · CIS Controls · Chronicle · Splunk  
-  *Enabling robust security posture, threat detection, and seamless audit compliance*
+Automation & Scripting:
+Python · Bash · PowerShell
+Automating alert triage, log analysis, and workflow improvements
 
-- **Documentation & Design:**  
-  Google Workspace · Markdown · Figma · Notion  
-  *Producing clear, professional reports and intuitive program materials*
+Documentation & Collaboration:
+Markdown · Google Workspace · Notion · Ticketing Systems (ServiceNow, Jira)
+Recording incidents, updating playbooks, and coordinating with SOC team members
 
 
 ---
