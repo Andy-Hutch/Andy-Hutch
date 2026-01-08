@@ -77,7 +77,7 @@ Completed hands-on projects simulating real-world SOC and security operations sc
 | **Tcpdump & Wireshark**                | Packet capture analysis · Data monitoring · Evidence collection                                  | [Link](https://github.com/Andy-Hutch/Andy-Hutch/tree/main/6%20-%20Tcpdump%20%26%20Wireshark)                         |
 | **IDS & SIEM**                         | Event correlation · Security monitoring · Dashboard reporting                                    | [Link](https://github.com/Andy-Hutch/Andy-Hutch/tree/main/7%20-%20IDS%20%26%20SIEM)                                  |
 | **Automation with Python**             | Process automation · Data analysis scripting · Report generation · Workflow improvement          | [Link](https://github.com/Andy-Hutch/Andy-Hutch/tree/main/8%20-%20Automation%20with%20Python)                        |
-| **SOC Analyst Notes Repository**       | complete notes · labs · hands-on SOC exercises from TryHackMe and other SOC L1 simulations       | [Link]
+| **SOC Analyst Notes Repository**       | complete notes · labs · hands-on SOC exercises from TryHackMe and other SOC L1 simulations       | [Link](https://github.com/Andy-Hutch/soc-analyst-notes)
 
 ---
 
