@@ -22,19 +22,19 @@ Ready to bring strong analytical thinking, attention to detail, and proactive th
 
 ## 🛠️ Tools & Platforms I Use
 
-Security Monitoring & SIEM:
+**Security Monitoring & SIEM:**
 Splunk · Elastic Stack · Chronicle · EDR Tools (CrowdStrike, Sentinel)
 Monitoring alerts, analyzing logs, and detecting threats in real time
 
-Incident Response & Analysis:
+**Incident Response & Analysis:**
 Wireshark · Tcpdump · Sandbox Environments · Threat Intel Feeds
 Investigating phishing, malware, ransomware, and suspicious network activity
 
-Automation & Scripting:
+**Automation & Scripting:**
 Python · Bash · PowerShell
 Automating alert triage, log analysis, and workflow improvements
 
-Documentation & Collaboration:
+**Documentation & Collaboration:**
 Markdown · Google Workspace · Notion · Ticketing Systems (ServiceNow, Jira)
 Recording incidents, updating playbooks, and coordinating with SOC team members
 
