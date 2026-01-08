@@ -1,6 +1,8 @@
-# 🔒 **GRC & Data Analytics Professional — Securing Compliance, Driving Impact, Delivering Clarity**
+# 🔒 Aspiring SOC Analyst | Hands-On Cybersecurity & Incident Response
 
-Empowering organizations to master compliance, slash risk, and make smarter decisions with actionable data—from hands-on labs, top certs, and real-world simulations. Leveraging GRC expertise and security analytics, I automate workflows, deliver executive insights, and drive measurable improvements using NIST frameworks. Proven project success in boosting audit outcomes and efficiency—ready to elevate your team in GRC, analytics, or SOC!
+Practical experience defending networks and systems through simulated SOC environments, alert triage, and incident response labs. Skilled in SIEM monitoring, phishing and ransomware analysis, and SOC L1 workflows, with hands-on knowledge from TryHackMe labs and real-world scenario simulations. Familiar with Splunk, Elastic Stack, EDR tools, and SOC operational processes.
+
+Ready to bring strong analytical thinking, attention to detail, and proactive threat detection skills to a security operations team. This repository demonstrates hands-on SOC skills, workflows, and incident response capabilities.
 
 
 
