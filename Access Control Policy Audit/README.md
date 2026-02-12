@@ -1,1 +1,0 @@
-Led a simulated internal access control audit to evaluate the implementation of the Principle of Least Privilege and Role-based Access Control (RBAC). Developed a comprehensive Access Control Policy, created a detailed role-access matrix, and produced an audit report highlighting access risks and actionable improvements.
