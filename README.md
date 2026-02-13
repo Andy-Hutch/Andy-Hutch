@@ -25,4 +25,4 @@ Each project includes investigation steps, evidence, and analyst decision-making
 
 | Project                                | Skills Demonstrated                                                                              | Repository                                                                                                           |
 | -------------------------------------- | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------- |
-                           |
+| 🏠 Home Network Security Assessment    | Network reconnaissance, service enumeration, risk scoring, NIST CSF & CIS mapping, remediation planning | [View Repository](https://github.com/Andy-Hutch/home-network-security-audit)                                  |
