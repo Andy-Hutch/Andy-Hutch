@@ -1,4 +1,4 @@
-<h1>Hi, I'm Andy! <br/><a href="[https://github.com/Andy-Hutch]">Programmer</a>, <a href="https://www.linkedin.com/in/hutchisonandy86/">Cybersecurity Professional</a>, </h1>
+<h1>Hi, I'm Andy! <br/><a href="[https://github.com/Andy-Hutch]">Programmer</a>, <a href="https://www.linkedin.com/in/hutchisonandy86/">Cybersecurity Professional</a> </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
