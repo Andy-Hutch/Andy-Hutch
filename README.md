@@ -1,6 +1,6 @@
 <h1>Hi, I'm Andy! <br/><a href="[https://github.com/Andy-Hutch]"> <a href="https://www.linkedin.com/in/hutchisonandy86/">Cybersecurity Professional</a> </h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 FSNA SQC Lab:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
