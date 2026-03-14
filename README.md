@@ -1,4 +1,4 @@
-# 🔒 SOC Analyst Portfolio — Detection, Triage & Incident Response
+# Hi, I'm Andy!
 
 Hands-on SOC labs focused on SIEM alert triage, phishing and malware analysis,
 incident response workflows, and security automation.
